@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e81073ba-cc21-44d2-80b4-cf617827498d" name="Default Changelist" comment="" />
+    <list default="true" id="e81073ba-cc21-44d2-80b4-cf617827498d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/precache-manifest.eeee3869a12fa1441da5f9089d901a28.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/css/main.d29e1846.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/css/main.d29e1846.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/js/2.3310f33a.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/js/main.f4bb5b46.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/js/main.f4bb5b46.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/docs/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/docs/assets/images/wow-gold-piles-in-the-bank.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/images/wow-gold-piles-in-the-bank.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/docs/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/docs/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/docs/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/docs/precache-manifest.7a5bc0f354b613995b1d454f67b2efb3.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/precache-manifest.7a5bc0f354b613995b1d454f67b2efb3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/docs/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/docs/static/css/main.b8640f18.chunk.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/css/main.b8640f18.chunk.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/docs/static/css/main.b8640f18.chunk.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/css/main.b8640f18.chunk.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/docs/static/js/2.3310f33a.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/js/2.3310f33a.chunk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/docs/static/js/2.3310f33a.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/docs/static/js/main.bdab5121.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/js/main.bdab5121.chunk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/docs/static/js/main.bdab5121.chunk.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/js/main.bdab5121.chunk.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/docs/static/js/runtime~main.a8a9905a.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/js/runtime~main.a8a9905a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/docs/static/js/runtime~main.a8a9905a.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/js/runtime~main.a8a9905a.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/assets/images/wow-gold-piles-in-the-bank.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/wow-gold-piles-in-the-bank.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/App.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,29 +55,54 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/public/index.html">
+        <entry file="file://$PROJECT_DIR$/src/App.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="96">
+              <caret line="19" column="84" selection-start-line="19" selection-start-column="84" selection-end-line="19" selection-end-column="84" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/App.scss">
+        <entry file="file://$PROJECT_DIR$/node_modules/react-scripts/scripts/build.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="128" selection-start-line="128" selection-end-line="128" />
+            <state relative-caret-position="158">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/react-scripts/bin/react-scripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="61" column="56" selection-start-line="61" selection-start-column="56" selection-end-line="61" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/App.js">
+        <entry file="file://$PROJECT_DIR$/node_modules/react-scripts/config/paths.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="69" column="9" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+            <state relative-caret-position="262">
+              <caret line="42" column="38" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-167" />
           </provider>
         </entry>
       </file>
@@ -45,9 +111,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>class</find>
+      <find>footer</find>
+      <find>docs</find>
     </findStrings>
     <replaceStrings>
       <replace>className</replace>
+      <replace>page__footer</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -61,23 +130,15 @@
         <option value="$PROJECT_DIR$/app/public/index.html" />
         <option value="$PROJECT_DIR$/app/src/App.scss" />
         <option value="$PROJECT_DIR$/app/src/App.js" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/auctioneer-bot-website.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/App.scss" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="856" />
+    <option name="x" value="408" />
+    <option name="width" value="1435" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -93,23 +154,6 @@
               <item name="auctioneer-bot-website" type="b2602c69:ProjectViewProjectNode" />
               <item name="auctioneer-bot-website" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="auctioneer-bot-website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="auctioneer-bot-website" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="auctioneer-bot-website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="auctioneer-bot-website" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="auctioneer-bot-website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="auctioneer-bot-website" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -120,7 +164,8 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/package.json" />
+    <property name="editorconfig.notification" value="lf;" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -134,9 +179,13 @@
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Key\WebstormProjects\auctioneer-bot-website\docs" />
+      <recent name="C:\Users\Key\WebstormProjects\auctioneer-bot-website\build" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Key\WebstormProjects\auctioneer-bot-website\app\public" />
       <recent name="C:\Users\Key\WebstormProjects\auctioneer-bot-website" />
+      <recent name="C:\Users\Key\WebstormProjects\auctioneer-bot-website\app\public" />
       <recent name="C:\Users\Key\WebstormProjects\auctioneer-bot-website\app\src\assets\images" />
       <recent name="C:\Users\Key\WebstormProjects\auctioneer-bot-website\app\src" />
       <recent name="C:\Users\Key\WebstormProjects\auctioneer-bot-website\app\src\assets" />
@@ -159,14 +208,14 @@
       <method v="2" />
     </configuration>
     <configuration name="build" type="js.build_tools.npm" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/app/package.json" />
+      <package-json value="$PROJECT_DIR$/package.json" />
       <command value="build" />
       <node-interpreter value="project" />
       <envs />
       <method v="2" />
     </configuration>
     <configuration name="npm start" type="js.build_tools.npm">
-      <package-json value="$PROJECT_DIR$/app/package.json" />
+      <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
       <scripts>
         <script value="start" />
@@ -194,22 +243,22 @@
       <workItem from="1562884727585" duration="3678000" />
       <workItem from="1562890464521" duration="8332000" />
       <workItem from="1562912158803" duration="571000" />
-      <workItem from="1562912891280" duration="1123000" />
+      <workItem from="1562912891280" duration="9376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13704000" />
+    <option name="totallyTimeSpent" value="21957000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="856" height="1047" extended-state="0" />
+    <frame x="408" y="0" width="1435" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3410758" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19971368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32995495" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32995495" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -218,7 +267,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3614865" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3614865" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -261,27 +310,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/index.css" />
-    <entry file="file://$PROJECT_DIR$/app/src/index.js" />
-    <entry file="file://$PROJECT_DIR$/app/src/App.scss" />
+    <entry file="file://$PROJECT_DIR$/src/index.css" />
+    <entry file="file://$PROJECT_DIR$/src/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/App.scss" />
     <entry file="file://$PROJECT_DIR$/app/README.md" />
-    <entry file="file://$PROJECT_DIR$/app/node_modules/.bin/react-scripts.cmd">
+    <entry file="file://$PROJECT_DIR$/node_modules/.bin/react-scripts.cmd">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/node_modules/.bin/react-scripts">
+    <entry file="file://$PROJECT_DIR$/node_modules/.bin/react-scripts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ugh/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="14" column="31" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
@@ -299,13 +341,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/App.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="128" selection-start-line="128" selection-end-line="128" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ugh/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -315,10 +350,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/App.js">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="69" column="9" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+        <state relative-caret-position="-181" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-167" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="19" column="84" selection-start-line="19" selection-start-column="84" selection-end-line="19" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-scripts/scripts/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-scripts/bin/react-scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="61" column="56" selection-start-line="61" selection-start-column="56" selection-end-line="61" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-scripts/config/paths.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="42" column="38" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
         </state>
       </provider>
     </entry>

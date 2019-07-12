@@ -1,0 +1,154 @@
+$text-color: #F9F5ED;
+$text-size-large: 4rem;
+$text-size-medium: 2.5rem;
+$text-size-small: 1.5rem;
+
+$center: 0 auto;
+
+$screen-height: calc(100vh - 50px);
+
+.page {
+  background: #2F3136;
+  padding: {
+    left: 20px;
+    right: 20px;
+  }
+
+  &__body {
+    display: block;
+    min-height: $screen-height;
+    //todo: replace this with col behavior for easier readability and better control
+    @media (min-width: 768px) {
+      padding: {
+        left: 5rem;
+        right: 5rem;
+      }
+    }
+    @media (min-width: 992px) {
+      padding:{
+        left: 10rem;
+        right: 10rem;
+      }
+  }
+    @media (min-width: 1200px) {
+      padding: {
+        left: 20rem;
+        right: 20rem;
+      };
+    }
+  }
+
+  &__title {
+    padding: {
+      top: 4rem;
+      bottom: 2rem;
+    };
+    margin: $center;
+
+    &__text {
+      text-align: center;
+      font-size: $text-size-large;
+      color: $text-color;
+    }
+  }
+
+  &__logo {
+    padding: {
+      bottom: 2.25rem;
+    }
+
+    &__image {
+      margin: $center;
+      border-radius: 50%;
+      height: 200px;
+      width: 200px;
+    }
+  }
+
+  &__subtitle {
+    padding: {
+      bottom: 5rem;
+    };
+
+    &__text {
+      text-align: center;
+      font-size: $text-size-medium;
+      color: $text-color;
+    }
+  }
+
+  &__callToAction {
+    margin: $center;
+    text-align: center;
+    padding: {
+      bottom: 3rem;
+    }
+
+    &__title {
+      text-align: center;
+      font-size: $text-size-small;
+      color: $text-color;
+      padding: {
+        bottom: 1rem;
+      }
+    }
+
+    &__link {
+      &__button {
+        background: #424461;
+        border-color: #210552;
+        border-radius: 7.5px;
+        height: 4rem;
+        width: 8rem;
+        color: $text-color;
+        font-size: 1.5rem;
+
+        &:hover {
+          background: adjust-color(#424461, $lightness: -7.5%);
+          border-color: adjust-color(#210552, $lightness: -7.5%);
+          color: adjust_color($text-color, $lightness: 100%);
+        }
+      }
+
+    }
+  }
+
+  &__footer {
+    position: absolute;
+    width: 100vw;
+    background: #202225;
+    text-align: center;
+    padding: {
+      top: 1rem;
+      bottom: 1rem;
+    }
+    margin: {
+      left: -20px;
+      right: -20px;
+    }
+
+    &__text {
+      color: $text-color;
+      padding: {
+        right: .2rem;
+      }
+
+      &:last-child {
+        padding: {
+          right: 0;
+        }
+      }
+    }
+
+    &__link {
+      text-decoration: underline;
+      color: #9a91d8;
+
+      &:hover {
+        color: adjust-color(#9a91d8, $lightness: -7.5%);
+
+      }
+    }
+
+  }
+}
