@@ -3,13 +3,16 @@ $text-size-large: 4rem;
 $text-size-medium: 2.5rem;
 $text-size-small: 1.5rem;
 
-@mixin center() {
-  margin: 0 auto;
-}
+$center: 0 auto;
 
 .App {
   background: #2F3136;
   min-height: 100vh;
+  padding: {
+    left: 20px;
+    right: 20px;
+
+  }
 }
 
 .title {
@@ -17,7 +20,7 @@ $text-size-small: 1.5rem;
     top: 4rem;
     bottom: 2rem;
   };
-  @include center();
+  margin: $center;
 
   &__text {
     text-align: center;
@@ -32,7 +35,7 @@ $text-size-small: 1.5rem;
   }
 
   &__image {
-    @include center();
+    margin: $center;
     border-radius: 50%;
     height: 200px;
     width: 200px;
@@ -41,7 +44,7 @@ $text-size-small: 1.5rem;
 
 .subtitle {
   padding: {
-    bottom: 3.25rem;
+    bottom: 5rem;
   };
 
   &__text {
@@ -52,26 +55,74 @@ $text-size-small: 1.5rem;
 }
 
 .callToAction {
-  @include center();
+  margin: $center;
   text-align: center;
   padding: {
-    bottom: 1rem;
+    bottom: 5rem;
   }
 
   &__title {
     text-align: center;
     font-size: $text-size-small;
     color: $text-color;
+    padding: {
+      bottom: 1rem;
+    }
   }
 
   &__link {
     &__button {
-      background: #484C52;
+      background: #424461;
       border-color: #210552;
-      border-radius: 2px;
-      height: 3rem;
-      width: 6rem;
+      border-radius: 7.5px;
+      height: 4rem;
+      width: 8rem;
+      color: $text-color;
+      font-size: 1.5rem;
+
+      &:hover {
+        background: adjust-color(#424461, $lightness: -7.5%);
+        border-color: adjust-color(#210552, $lightness: -7.5%);
+        color: adjust_color($text-color, $lightness: 100%);
+      }
     }
 
   }
+}
+
+.footer {
+
+  background: #202225;
+  text-align: center;
+  padding: {
+    top: 1rem;
+    bottom: 1rem;
+  }
+  margin: {
+    left: -20px;
+    right: -20px;
+  }
+
+  &__text {
+    color: $text-color;
+    padding:{
+      right: .2rem;
+    }
+    &:last-child{
+      padding:{
+        right: 0;
+      }
+    }
+  }
+
+  &__link {
+    text-decoration: underline;
+    color: #9a91d8;
+
+    &:hover {
+      color: adjust-color(#9a91d8, $lightness: -7.5%);
+
+    }
+  }
+
 }
