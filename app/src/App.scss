@@ -1,0 +1,77 @@
+$text-color: #F9F5ED;
+$text-size-large: 4rem;
+$text-size-medium: 2.5rem;
+$text-size-small: 1.5rem;
+
+@mixin center() {
+  margin: 0 auto;
+}
+
+.App {
+  background: #2F3136;
+  min-height: 100vh;
+}
+
+.title {
+  padding: {
+    top: 4rem;
+    bottom: 2rem;
+  };
+  @include center();
+
+  &__text {
+    text-align: center;
+    font-size: $text-size-large;
+    color: $text-color;
+  }
+}
+
+.logo {
+  padding: {
+    bottom: 2.25rem;
+  }
+
+  &__image {
+    @include center();
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+  }
+}
+
+.subtitle {
+  padding: {
+    bottom: 3.25rem;
+  };
+
+  &__text {
+    text-align: center;
+    font-size: $text-size-medium;
+    color: $text-color;
+  }
+}
+
+.callToAction {
+  @include center();
+  text-align: center;
+  padding: {
+    bottom: 1rem;
+  }
+
+  &__title {
+    text-align: center;
+    font-size: $text-size-small;
+    color: $text-color;
+  }
+
+  &__link {
+    &__button {
+      background: #484C52;
+      border-color: #210552;
+      border-radius: 2px;
+      height: 3rem;
+      width: 6rem;
+    }
+
+  }
+}
