@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/auctioneer-bot-website/static/css/main.5ff99041.chunk.css",
-    "main.js": "/auctioneer-bot-website/static/js/main.cff3347e.chunk.js",
-    "main.js.map": "/auctioneer-bot-website/static/js/main.cff3347e.chunk.js.map",
+    "main.js": "/auctioneer-bot-website/static/js/main.0c69aaa3.chunk.js",
+    "main.js.map": "/auctioneer-bot-website/static/js/main.0c69aaa3.chunk.js.map",
     "runtime~main.js": "/auctioneer-bot-website/static/js/runtime~main.99ce1989.js",
     "runtime~main.js.map": "/auctioneer-bot-website/static/js/runtime~main.99ce1989.js.map",
     "static/js/2.3310f33a.chunk.js": "/auctioneer-bot-website/static/js/2.3310f33a.chunk.js",
     "static/js/2.3310f33a.chunk.js.map": "/auctioneer-bot-website/static/js/2.3310f33a.chunk.js.map",
     "index.html": "/auctioneer-bot-website/index.html",
-    "precache-manifest.4072843219e435123f3957313b6aa921.js": "/auctioneer-bot-website/precache-manifest.4072843219e435123f3957313b6aa921.js",
+    "precache-manifest.473cb055bc8891ece2ae0dcea567131d.js": "/auctioneer-bot-website/precache-manifest.473cb055bc8891ece2ae0dcea567131d.js",
     "service-worker.js": "/auctioneer-bot-website/service-worker.js",
     "static/css/main.5ff99041.chunk.css.map": "/auctioneer-bot-website/static/css/main.5ff99041.chunk.css.map"
   }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66e2afc59ef5a330d495aa4797b71725",
+    "revision": "752687942f0a12881260fdf75ce2e6f0",
     "url": "/auctioneer-bot-website/index.html"
   },
   {
-    "revision": "d640ca140087b1c0c8aa",
+    "revision": "932915b91423e429cb73",
     "url": "/auctioneer-bot-website/static/css/main.5ff99041.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/auctioneer-bot-website/static/js/2.3310f33a.chunk.js"
   },
   {
-    "revision": "d640ca140087b1c0c8aa",
-    "url": "/auctioneer-bot-website/static/js/main.cff3347e.chunk.js"
+    "revision": "932915b91423e429cb73",
+    "url": "/auctioneer-bot-website/static/js/main.0c69aaa3.chunk.js"
   },
   {
     "revision": "8b1fdce318a767b0b1e2",
