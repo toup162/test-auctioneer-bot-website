@@ -1,5 +1,5 @@
 import React from 'react';
-// import logo from './logo.svg';
+import logo from './wow-gold-piles-in-the-bank.jpg';
 import './App.scss';
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
                 </div>
                 <div className="page__logo">
                     <img class="page__logo__image row" alt="Bot logo: piles of gold"
-                         src="/assets/images/wow-gold-piles-in-the-bank.jpg"></img>
+                         src={logo}></img>
                 </div>
 
                 <div className="page__subtitle">
