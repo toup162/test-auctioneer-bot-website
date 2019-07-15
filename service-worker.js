@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/auctioneer-bot-website/precache-manifest.473cb055bc8891ece2ae0dcea567131d.js"
+  "/auctioneer-bot-website/precache-manifest.384b2b3c05454e7cb410d652bec8a2bd.js"
 );
 
 self.addEventListener('message', (event) => {
