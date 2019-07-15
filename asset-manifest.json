@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/auctioneer-bot-website/static/css/main.5ff99041.chunk.css",
-    "main.js": "/auctioneer-bot-website/static/js/main.e9aac21c.chunk.js",
-    "main.js.map": "/auctioneer-bot-website/static/js/main.e9aac21c.chunk.js.map",
+    "main.js": "/auctioneer-bot-website/static/js/main.3c3bf25f.chunk.js",
+    "main.js.map": "/auctioneer-bot-website/static/js/main.3c3bf25f.chunk.js.map",
     "runtime~main.js": "/auctioneer-bot-website/static/js/runtime~main.99ce1989.js",
     "runtime~main.js.map": "/auctioneer-bot-website/static/js/runtime~main.99ce1989.js.map",
-    "static/js/2.3310f33a.chunk.js": "/auctioneer-bot-website/static/js/2.3310f33a.chunk.js",
-    "static/js/2.3310f33a.chunk.js.map": "/auctioneer-bot-website/static/js/2.3310f33a.chunk.js.map",
+    "static/js/2.b41502e9.chunk.js": "/auctioneer-bot-website/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/auctioneer-bot-website/static/js/2.b41502e9.chunk.js.map",
     "index.html": "/auctioneer-bot-website/index.html",
-    "precache-manifest.384b2b3c05454e7cb410d652bec8a2bd.js": "/auctioneer-bot-website/precache-manifest.384b2b3c05454e7cb410d652bec8a2bd.js",
+    "precache-manifest.cea88267bc8078e4d9aa4317b2003f00.js": "/auctioneer-bot-website/precache-manifest.cea88267bc8078e4d9aa4317b2003f00.js",
     "service-worker.js": "/auctioneer-bot-website/service-worker.js",
-    "static/css/main.5ff99041.chunk.css.map": "/auctioneer-bot-website/static/css/main.5ff99041.chunk.css.map"
+    "static/css/main.5ff99041.chunk.css.map": "/auctioneer-bot-website/static/css/main.5ff99041.chunk.css.map",
+    "static/media/wow-gold-piles-in-the-bank.jpg": "/auctioneer-bot-website/static/media/wow-gold-piles-in-the-bank.cf8d701b.jpg"
   }
 }
