@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './wow-gold-piles-in-the-bank.jpg';
+import logo from './wow-gold-piles-in-the-bank-2.jpg';
 import './App.scss';
 
 function App() {
