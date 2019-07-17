@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4025c54139839783e07258819cef388e",
+    "revision": "0b1cac5eb14029ac8b9891424dd7325f",
     "url": "/auctioneer-bot-website/index.html"
   },
   {
