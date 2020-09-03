@@ -1,4 +1,6 @@
 <script>
+	import './main.css';
+
 	const message = 'Learn Svelte';
 </script>
 
