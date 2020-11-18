@@ -5,6 +5,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@material/elevation": "^7.0.0",
     "svelte": "^3.24.0"
   },
   "devDependencies": {

@@ -1,59 +1,30 @@
 <script>
-	import './main.css';
+    import './main.css';
+    import Commands from "./Discord.svelte";
+    import Footer from "./Footer.svelte";
+    import Discord from "./Discord.svelte";
+    import CommandList from "./CommandList.svelte";
 
-	const message = 'Learn Svelte';
+    const src = 'logo.jpg'
+    const altText = 'logo with pile of treasure'
+
 </script>
 
-<style>
-	:global(body) {
-		margin: 0;
-		font-family: Arial, Helvetica, sans-serif;
-	}
-	.App {
-		text-align: center;
-	}
-	.App-header {
-		background-color: #F9F6F6;
-		color: #333;
-		min-height: 100vh;
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		justify-content: center;
-		font-size: calc(10px + 2vmin);
-	}
-	.App-link {
-		color: #ff3e00;
-	}
-	.App-logo {
-		height: 40vmin;
-		pointer-events: none;
-		margin-bottom: 1.0rem;
-		animation: App-logo-spin infinite 1.6s ease-in-out alternate;
-	}
-	@keyframes App-logo-spin {
-		from {
-			transform: scale(1);
-		}
-		to {
-			transform: scale(1.06);
-		}
-	}
-</style>
 
-<div class="App">
-	<header class="App-header">
-		<img src="/logo.svg" class="App-logo" alt="logo" />
-		<p>
-			Edit <code>src/App.svelte</code> and save to reload.
-		</p>
-		<a
-			class="App-link"
-			href="https://svelte.dev"
-			target="_blank"
-			rel="noopener noreferrer"
-		>
-			{message}
-		</a>
-	</header>
+<div class="w-full">
+    <div class=" w-full bg-purple-900 shadow">
+
+        <img {src} class="inline-block ml-4 mt-4 mb-4 h-32 rounded-full border-4 border-purple-500" alt="{altText}">
+
+        <div class="inline-block align-middle text-gray-100 text-4xl text-right uppercase">
+            Buyer's
+            <br>
+            Guide
+        </div>
+    </div>
+
+        <Discord/>
+        <CommandList/>
+        <Footer/>
+
 </div>
