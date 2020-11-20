@@ -3,20 +3,22 @@
 </script>
 
 <section class="text-gray-500 bg-gray-900 body-font">
-    <div class="container px-5 pt-20 pb-12 mx-auto flex flex-wrap divide-y">
-        <div class="flex flex-col flex-wrap lg:py-6 lg:text-left text-center">
-            <div class="flex flex-col pb-12 border-solid border-b lg:items-start items-center">
+    <div class="container px-5 pt-20 mx-auto flex flex-wrap md:w-1/2 md:border-solid md:border-b">
+        <div class="flex flex-col flex-wrap lg:py-6 lg:text-left text-center md:mx-auto border-b border-solid md:border-none">
+            <div class="flex flex-col pb-12 lg:items-start items-center">
                 <div class="w-12 h-12 inline-flex items-center justify-center rounded-full bg-gray-800 text-purple-400 mb-5">
                     <img class="h-8" {src}>
                 </div>
                 <div class="flex-grow">
-                    <h2 class="text-white text-lg title-font font-medium mb-3 capitalize">the best price every time</h2>
+                    <h2 class="text-white text-lg title-font font-medium mb-3 capitalize">the best price every
+                        time</h2>
 
                     <p class="leading-relaxed text-base pb-5">Make your gold go farther with convenient
                         stats sent to you in Discord for every item on the auction house!</p>
                     <a class="inline-flex text-white bg-purple-500 border-0 py-2 px-6 focus:outline-none hover:bg-purple-600 rounded h-12 content-center flex justify-center"
                        href="https://discordapp.com/oauth2/authorize?&client_id=492451055632777228&scope=bot&permissions=0">
-                        <svg class="h-full mr-2" id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 245 240">
+                        <svg class="h-full mr-2" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+                             viewBox="0 0 245 240">
                             <style>.st0 {
                                 fill: #FFFFFF;
                             }
@@ -31,6 +33,5 @@
                 </div>
             </div>
         </div>
-
     </div>
 </section>
