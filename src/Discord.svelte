@@ -22,7 +22,7 @@
                             <p class="my-auto">Add to Discord</p>
                         </a>
                         <a target="_blank" class="inline-flex text-white bg-purple-500 border-0 py-2 px-6 focus:outline-none hover:bg-purple-600 rounded h-12 content-center flex justify-center"
-                           href="https://discordapp.com/oauth2/authorize?&client_id=492451055632777228&scope=bot&permissions=0">
+                           href="https://discord.gg/Jv2DpfzXNC">
                             <svg class="h-full mr-2" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
                                  viewBox="0 0 245 240">
                                 <style>.st0 {
