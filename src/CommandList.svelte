@@ -48,6 +48,7 @@
                         <p class="leading-relaxed">Get key stats and information on any item on the Auction House.</p>
                     </div>
                 </div>
+                <img src="p-akunda.jpg" class="hidden xl:block">
             </div>
             <div class="flex relative pl-2 pb-10 sm:items-center">
                 <div class="h-full w-6 absolute inset-0 flex items-center justify-center">
