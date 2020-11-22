@@ -1,5 +1,5 @@
 <script>
-    const src = 'money_and_coins.png'
+    const src = 'money_and_coins.png';
 </script>
 
 <section class="text-gray-500 bg-gray-900 body-font">
