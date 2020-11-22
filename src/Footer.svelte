@@ -2,8 +2,8 @@
     const src = 'money_and_coins_white.png'
 </script>
 
-<footer class="text-gray-500 bg-gray-900 body-font px-6">
-    <div class="container py-5 mx-auto flex items-center sm:flex-row flex-col border-t">
+<footer class="text-gray-500 bg-gray-900 body-font px-6 w-full border-t">
+    <div class="container py-5  flex items-center sm:flex-row flex-col">
         <a class="flex title-font font-medium items-center md:justify-start justify-center text-white">
             <div class="w-12 h-12 inline-flex items-center justify-center rounded-full bg-purple-400">
                 <img class="h-8" {src}>

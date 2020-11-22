@@ -1,5 +1,5 @@
 <section class="text-gray-500 bg-gray-900 body-font pt-8">
-    <div class="md:w-1/2 w-full mx-auto">
+    <div class="md:w-2/3 w-full mx-auto">
         <div class="container px-3 pb-6 mx-auto flex flex-wrap">
             <div class="text-white text-2xl pb-2 md:w-full">Bot Commands</div>
             <div class="flex relative pl-2 pt-10 pb-20 sm:items-center">
