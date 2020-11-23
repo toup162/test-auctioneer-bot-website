@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "snowpack dev",
-    "build": "snowpack build",
+    "build": "rm -rf docs && snowpack build && touch build/.nojekyll && mv build docs",
     "test": "jest",
     "lint": "eslint *.js --fix"
   },
@@ -22,7 +22,7 @@
     "eslint-plugin-svelte3": "^2.7.3",
     "jest": "^26.2.2",
     "postcss-cli": "^7.1.2",
-    "snowpack": "^2.17.1",
+    "snowpack": "^2.10.0",
     "svelte-check": "^1.0.0"
   }
 }
