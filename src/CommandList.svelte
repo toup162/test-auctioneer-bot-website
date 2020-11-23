@@ -66,6 +66,7 @@
                         <p class="italic">TLDR; know everything there is to know.</p>
                     </div>
                 </div>
+                <img src="bg+_feast.png" class="hidden xl:block">
             </div>
         </div>
     </div>
