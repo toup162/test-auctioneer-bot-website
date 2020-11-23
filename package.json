@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "snowpack dev",
-    "build": "snowpack build",
+    "build": "rm -rf docs && snowpack build && mv build/ docs/",
     "test": "jest",
     "lint": "eslint *.js --fix"
   },
