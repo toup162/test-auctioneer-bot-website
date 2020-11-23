@@ -1,59 +1,23 @@
 <script>
-	import './main.css';
+    import './main.css';
+    import Header from './Header.svelte';
+    import Footer from './Footer.svelte';
+    import Discord from './Discord.svelte';
+    import CommandList from './CommandList.svelte';
+    import News from './News.svelte';
 
-	const message = 'Learn Svelte';
+    const logo = 'logo.jpg';
+    const altText = 'logo with pile of treasure';
+
 </script>
 
-<style>
-	:global(body) {
-		margin: 0;
-		font-family: Arial, Helvetica, sans-serif;
-	}
-	.App {
-		text-align: center;
-	}
-	.App-header {
-		background-color: #F9F6F6;
-		color: #333;
-		min-height: 100vh;
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		justify-content: center;
-		font-size: calc(10px + 2vmin);
-	}
-	.App-link {
-		color: #ff3e00;
-	}
-	.App-logo {
-		height: 40vmin;
-		pointer-events: none;
-		margin-bottom: 1.0rem;
-		animation: App-logo-spin infinite 1.6s ease-in-out alternate;
-	}
-	@keyframes App-logo-spin {
-		from {
-			transform: scale(1);
-		}
-		to {
-			transform: scale(1.06);
-		}
-	}
-</style>
 
-<div class="App">
-	<header class="App-header">
-		<img src="/logo.svg" class="App-logo" alt="logo" />
-		<p>
-			Edit <code>src/App.svelte</code> and save to reload.
-		</p>
-		<a
-			class="App-link"
-			href="https://svelte.dev"
-			target="_blank"
-			rel="noopener noreferrer"
-		>
-			{message}
-		</a>
-	</header>
+<div class="w-full">
+
+    <Header/>
+    <News/>
+    <Discord/>
+    <CommandList/>
+    <Footer/>
+
 </div>
