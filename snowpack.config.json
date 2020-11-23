@@ -2,5 +2,9 @@
   "extends": "@snowpack/app-scripts-svelte",
   "plugins": [
     ["@snowpack/plugin-build-script", {"cmd": "postcss", "input": [".css"], "output": [".css"]}]
-  ]
+  ],
+  "buildOptions": {
+    "baseUrl": "/auctioneer-bot-website",
+    "out": "docs"
+  }
 }
