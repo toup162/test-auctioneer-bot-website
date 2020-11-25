@@ -4,7 +4,6 @@
     ["@snowpack/plugin-build-script", {"cmd": "postcss", "input": [".css"], "output": [".css"]}]
   ],
   "buildOptions": {
-    "baseUrl": "/auctioneer-bot-website",
     "out": "docs"
   }
 }
