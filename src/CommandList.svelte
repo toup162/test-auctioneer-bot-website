@@ -3,10 +3,10 @@
         <div class="container px-3 pb-6 mx-auto flex flex-wrap">
             <div class="text-white text-2xl pb-2 md:w-full">Bot Commands</div>
             <div class="flex relative pl-2 pt-10 pb-20 sm:items-center">
-                <div class="h-full w-6 absolute inset-0 flex items-center justify-center">
+                <div class="h-full w-6 absolute inset-0 flex items-center justify-center hidden lg:flex">
                     <div class="h-full w-1 bg-gray-800 pointer-events-none"></div>
                 </div>
-                <div class="flex-grow pl-6 flex sm:items-center items-start flex-col sm:flex-row">
+                <div class="flex-grow md:pl-8 flex sm:items-center items-start flex-col sm:flex-row">
                     <div class=" text-2xl flex-shrink-0 w-24 h-24 bg-gray-800 text-purple-400 rounded-full inline-flex items-center justify-center">
                         !bghelp
                     </div>
@@ -19,7 +19,7 @@
                 </div>
             </div>
             <div class="flex relative pl-2 pb-20 sm:items-center">
-                <div class="h-full w-6 absolute inset-0 flex items-center justify-center">
+               <div class="h-full w-6 absolute inset-0 flex items-center justify-center hidden lg:flex">
                     <div class="h-full w-1 bg-gray-800 pointer-events-none"></div>
                 </div>
                 <div class="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
@@ -36,7 +36,7 @@
                 </div>
             </div>
             <div class="flex relative pl-2 pb-20 sm:items-center">
-                <div class="h-full w-6 absolute inset-0 flex items-center justify-center">
+               <div class="h-full w-6 absolute inset-0 flex items-center justify-center hidden lg:flex">
                     <div class="h-full w-1 bg-gray-800 pointer-events-none"></div>
                 </div>
                 <div class="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
@@ -49,14 +49,14 @@
                     </div>
                 </div>
             </div>
-            <div class="flex relative pl-2 pb-20 sm:items-center w-full">
-                <div class="h-full w-6 absolute inset-0 flex items-center justify-center">
+            <div class="flex relative lg:pl-2 pb-20 sm:items-center w-full">
+               <div class="h-full w-6 absolute inset-0 flex items-center justify-center hidden lg:flex">
                     <div class="h-full w-1 bg-gray-800 pointer-events-none"></div>
                 </div>
-                <img src="p-akunda.jpg" alt="example of !p call for akunda's bite to show the variety of information provided." class="md:pl-10 pl-8">
+                <img src="!p.png" alt="example of !p call for akunda's bite to show the variety of information provided." class="md:pl-10 max-h-64">
             </div>
             <div class="flex relative pl-2 pb-10 sm:items-center">
-                <div class="h-full w-6 absolute inset-0 flex items-center justify-center">
+               <div class="h-full w-6 absolute inset-0 flex items-center justify-center hidden lg:flex">
                     <div class="h-full w-1 bg-gray-800 pointer-events-none"></div>
                 </div>
                 <div class="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
@@ -72,11 +72,11 @@
                     </div>
                 </div>
             </div>
-            <div class="flex relative pl-2 pb-20 sm:items-center w-full">
-                <div class="h-full w-6 absolute inset-0 flex items-center justify-center">
+            <div class="flex relative lg:pl-2 pb-20 sm:items-center w-full">
+               <div class="h-full w-6 absolute inset-0 flex items-center justify-center hidden lg:flex">
                     <div class="h-full w-1 bg-gray-800 pointer-events-none"></div>
                 </div>
-                <img src="bg+_feast.png" alt="Example of !bg+ call for bountiful captain's feast specifically showing multi-level recipe behavior." class="md:pl-10 pl-8">
+                <img src="bg+.png" alt="Example of !bg+ call for bountiful captain's feast specifically showing multi-level recipe behavior." class="md:pl-10 max-h-64">
             </div>
         </div>
     </div>
