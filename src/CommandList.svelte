@@ -48,7 +48,12 @@
                         <p class="leading-relaxed">Get key stats and information on any item on the Auction House.</p>
                     </div>
                 </div>
-                <img src="p-akunda.jpg" class="hidden xl:block">
+            </div>
+            <div class="flex relative pl-2 pb-20 sm:items-center w-full">
+                <div class="h-full w-6 absolute inset-0 flex items-center justify-center">
+                    <div class="h-full w-1 bg-gray-800 pointer-events-none"></div>
+                </div>
+                <img src="p-akunda.jpg" alt="example of !p call for akunda's bite to show the variety of information provided." class="md:pl-10 pl-8">
             </div>
             <div class="flex relative pl-2 pb-10 sm:items-center">
                 <div class="h-full w-6 absolute inset-0 flex items-center justify-center">
@@ -66,7 +71,12 @@
                         <p class="italic">TLDR; know everything there is to know.</p>
                     </div>
                 </div>
-                <img src="bg+_feast.png" class="hidden ">
+            </div>
+            <div class="flex relative pl-2 pb-20 sm:items-center w-full">
+                <div class="h-full w-6 absolute inset-0 flex items-center justify-center">
+                    <div class="h-full w-1 bg-gray-800 pointer-events-none"></div>
+                </div>
+                <img src="bg+_feast.png" alt="Example of !bg+ call for bountiful captain's feast specifically showing multi-level recipe behavior." class="md:pl-10 pl-8">
             </div>
         </div>
     </div>
