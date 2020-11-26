@@ -49,7 +49,7 @@
                     </div>
                 </div>
             </div>
-            <div class="flex relative lg:pl-2 pb-20 sm:items-center w-full">
+            <div class="flex relative lg:pl-10 pb-20 sm:items-center w-full">
                <div class="h-full w-6 absolute inset-0 flex items-center justify-center hidden lg:flex">
                     <div class="h-full w-1 bg-gray-800 pointer-events-none"></div>
                 </div>
@@ -72,7 +72,7 @@
                     </div>
                 </div>
             </div>
-            <div class="flex relative lg:pl-2 pb-20 sm:items-center w-full">
+            <div class="flex relative lg:pl-10 pb-20 sm:items-center w-full">
                <div class="h-full w-6 absolute inset-0 flex items-center justify-center hidden lg:flex">
                     <div class="h-full w-1 bg-gray-800 pointer-events-none"></div>
                 </div>
