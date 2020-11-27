@@ -22,7 +22,7 @@
                <div class="h-full w-6 absolute inset-0 flex items-center justify-center hidden lg:flex">
                     <div class="h-full w-1 bg-gray-800 pointer-events-none"></div>
                 </div>
-                <div class="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
+                <div class="flex-grow md:pl-8 flex sm:items-center items-start flex-col sm:flex-row">
                     <div class="text-3xl flex-shrink-0 w-24 h-24 bg-gray-800 text-purple-400 rounded-full inline-flex items-center justify-center">
                         !r
                     </div>
@@ -39,7 +39,7 @@
                <div class="h-full w-6 absolute inset-0 flex items-center justify-center hidden lg:flex">
                     <div class="h-full w-1 bg-gray-800 pointer-events-none"></div>
                 </div>
-                <div class="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
+                <div class="flex-grow md:pl-8 flex sm:items-center items-start flex-col sm:flex-row">
                     <div class="text-3xl flex-shrink-0 w-24 h-24 bg-gray-800 text-purple-400 rounded-full inline-flex items-center justify-center">
                         !p
                     </div>
@@ -59,7 +59,7 @@
                <div class="h-full w-6 absolute inset-0 flex items-center justify-center hidden lg:flex">
                     <div class="h-full w-1 bg-gray-800 pointer-events-none"></div>
                 </div>
-                <div class="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
+                <div class="flex-grow md:pl-8 flex sm:items-center items-start flex-col sm:flex-row">
                     <div class="text-3xl flex-shrink-0 w-24 h-24 bg-gray-800 text-purple-400 rounded-full inline-flex items-center justify-center">
                         !bg+
                     </div>
