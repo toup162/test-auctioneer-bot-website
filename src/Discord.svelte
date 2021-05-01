@@ -20,13 +20,13 @@
                 </div>
                 <div class="flex justify-around">
                     <a target="_blank"
-                       class="inline-flex text-white bg-purple-500 border-0 py-2 px-6 focus:outline-none hover:bg-purple-600 rounded h-12 content-center flex justify-center"
+                       class="inline-flex text-white bg-purple-500 border-0 px-6 focus:outline-none hover:bg-purple-600 rounded h-12 content-center flex justify-center mr-3"
                        href="https://discordapp.com/oauth2/authorize?&client_id=492451055632777228&scope=bot&permissions=0">
                         <i class="fas fa-robot fa-lg mr-2 my-auto"></i>
                         <p class="my-auto">Add to Discord</p>
                     </a>
                     <a target="_blank"
-                       class="inline-flex text-purple-600 border-solid border border-purple-600 bg-gray-900 border-0 py-2 px-6 focus:outline-none hover:text-purple-300 hover:border-purple-300 rounded h-12 content-center flex justify-center"
+                       class="inline-flex text-purple-600 border-solid border border-purple-600 bg-gray-900 border-0 px-6 focus:outline-none hover:text-purple-300 hover:border-purple-300 rounded h-12 content-center flex justify-center"
                        href="https://discord.gg/Jv2DpfzXNC">
                         <svg class="h-full mr-2" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
                              viewBox="0 0 245 240">
