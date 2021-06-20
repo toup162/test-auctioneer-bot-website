@@ -15,8 +15,6 @@ const App = () => {
     return (
         
         <div className="App">
-            {/*<div className="App pl-1 sm:pl-1 md:pl-2 lg:pl-8">*/}
-
             <ToastContainer
                 position="top-center"
                 autoClose={3000}

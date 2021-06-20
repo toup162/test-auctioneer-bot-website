@@ -1,12 +1,12 @@
 body {
-	background-color: #111827;
+    background-color: #111827;
 }
 
 .App {
-	min-height: 100vh;
-	.Toastify__toast--success {
-		background: #5961ab;
-	}
+    min-height: 100vh;
+    .Toastify__toast--success {
+        background: #5961ab;
+    }
 }
 
 .discord-st0 {
@@ -15,83 +15,83 @@ body {
 
 
 hr.styled-hr {
-	border-top: 1px solid #0f131a;
+    border-top: 1px solid #0f131a;
 }
 
 .nav-link {
-	transition: 0.3s;
-	&:hover {
-		color: rgba(255,255,255,0.8)
-	}
+    transition: 0.3s;
+    &:hover {
+        color: rgba(255,255,255,0.8)
+    }
 }
 
 .nav-link.nav-link-hamburger {
-	&:hover {
-		background-color: rgba(255,255,255,0.1)
-	}
+    &:hover {
+        background-color: rgba(255,255,255,0.1)
+    }
 }
 
 .bg-header {
-	background-color: #0b0f19;
+    background-color: #0b0f19;
 }
 
 .app-burger {
-	.bm-burger-button {
-		position: relative;
-		width: 36px;
-		height: 30px;
-	}
-	
-	.bm-burger-bars {
-		background: #fff;
-	}
-	
-	.bm-burger-bars-hover {
-		background: rgba(255,255,255,0.8);
-	}
-	
-	.bm-cross-button {
-		height: 36px!important;
-		width: 36px!important;
-	}
-	
-	.bm-cross {
-		background: #bdc3c7;
-	}
-	
-	.bm-menu-wrap {
-		position: fixed;
-		right: 0px;
-		z-index: 1100;
-		width: 300px;
-		height: 100%;
-		transition: all 0.5s ease 0s;
-		top: 0px;
+    .bm-burger-button {
+        position: relative;
+        width: 36px;
+        height: 30px;
+    }
+    
+    .bm-burger-bars {
+        background: #fff;
+    }
+    
+    .bm-burger-bars-hover {
+        background: rgba(255,255,255,0.8);
+    }
+    
+    .bm-cross-button {
+        height: 36px!important;
+        width: 36px!important;
+    }
+    
+    .bm-cross {
+        background: #bdc3c7;
+    }
+    
+    .bm-menu-wrap {
+        position: fixed;
+        right: 0px;
+        z-index: 1100;
+        width: 300px;
+        height: 100%;
+        transition: all 0.5s ease 0s;
+        top: 0px;
 
-	}
-	
-	.bm-menu {
-		box-shadow: -20px -1px 20px 9px rgba(0, 0, 0, .34);
-		background: #0b0f19;
-		padding: 2.5em 0;
-		font-size: 1.15em;
-		border-left: 2px solid #374151;
-	}
-	
-	.bm-morph-shape {
-		fill: #373a47;
-	}
-	
-	.bm-item-list {
-		color: #b8b7ad;
-		padding: 0.8em 0;
-	}
-	
-	.bm-item {
-		display: inline-block;
-	}
-	
-	.bm-overlay {
-		background: rgba(0, 0, 0, 0.3);
-	}
+    }
+    
+    .bm-menu {
+        box-shadow: -20px -1px 20px 9px rgba(0, 0, 0, .34);
+        background: #0b0f19;
+        padding: 2.5em 0;
+        font-size: 1.15em;
+        border-left: 2px solid #374151;
+    }
+    
+    .bm-morph-shape {
+        fill: #373a47;
+    }
+    
+    .bm-item-list {
+        color: #b8b7ad;
+        padding: 0.8em 0;
+    }
+    
+    .bm-item {
+        display: inline-block;
+    }
+    
+    .bm-overlay {
+        background: rgba(0, 0, 0, 0.3);
+    }
 }
