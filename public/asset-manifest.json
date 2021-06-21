@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/test-auctioneer-bot-website/static/css/main.c8815730.chunk.css",
+    "main.js": "/test-auctioneer-bot-website/static/js/main.aefccb57.chunk.js",
+    "main.js.map": "/test-auctioneer-bot-website/static/js/main.aefccb57.chunk.js.map",
+    "runtime-main.js": "/test-auctioneer-bot-website/static/js/runtime-main.be66787a.js",
+    "runtime-main.js.map": "/test-auctioneer-bot-website/static/js/runtime-main.be66787a.js.map",
+    "static/css/2.04404071.chunk.css": "/test-auctioneer-bot-website/static/css/2.04404071.chunk.css",
+    "static/js/2.b4b6fbfe.chunk.js": "/test-auctioneer-bot-website/static/js/2.b4b6fbfe.chunk.js",
+    "static/js/2.b4b6fbfe.chunk.js.map": "/test-auctioneer-bot-website/static/js/2.b4b6fbfe.chunk.js.map",
+    "static/js/3.70e92ffd.chunk.js": "/test-auctioneer-bot-website/static/js/3.70e92ffd.chunk.js",
+    "static/js/3.70e92ffd.chunk.js.map": "/test-auctioneer-bot-website/static/js/3.70e92ffd.chunk.js.map",
+    "index.html": "/test-auctioneer-bot-website/index.html",
+    "static/css/2.04404071.chunk.css.map": "/test-auctioneer-bot-website/static/css/2.04404071.chunk.css.map",
+    "static/css/main.c8815730.chunk.css.map": "/test-auctioneer-bot-website/static/css/main.c8815730.chunk.css.map",
+    "static/js/2.b4b6fbfe.chunk.js.LICENSE.txt": "/test-auctioneer-bot-website/static/js/2.b4b6fbfe.chunk.js.LICENSE.txt",
+    "static/media/bg+.bbe8a49d.png": "/test-auctioneer-bot-website/static/media/bg+.bbe8a49d.png",
+    "static/media/logo.f1026b73.jpg": "/test-auctioneer-bot-website/static/media/logo.f1026b73.jpg",
+    "static/media/money_and_coins.272573ad.png": "/test-auctioneer-bot-website/static/media/money_and_coins.272573ad.png",
+    "static/media/money_and_coins_white.3a8b9cb7.png": "/test-auctioneer-bot-website/static/media/money_and_coins_white.3a8b9cb7.png",
+    "static/media/p.7ad451e2.png": "/test-auctioneer-bot-website/static/media/p.7ad451e2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be66787a.js",
+    "static/css/2.04404071.chunk.css",
+    "static/js/2.b4b6fbfe.chunk.js",
+    "static/css/main.c8815730.chunk.css",
+    "static/js/main.aefccb57.chunk.js"
+  ]
+}
